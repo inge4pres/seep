@@ -1,6 +1,6 @@
 # __SEEP__
 ## Secure Extensible EDI Protocol
-##### A way of exchanging informations with your business partners defining your own format and relying on strong authentication and forward secrecy to ensure confidentilaity of transactions.
+##### A way of exchanging informations with your business partners defining your own format and relying on strong authentication and forward secrecy to ensure confidentiality of transactions.
 
 ### Features
 ##### Secure
