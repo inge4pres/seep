@@ -1,0 +1,5 @@
+# __SEEP__
+## Introduction to the protocol
+
+Any business needs to share information and commuincate with other actors in the world to produce value. As of today there are many standard definition oh what the content of transactions may be: ANSI X12, UN/EDIFACT, EANCOMM, et al, they all provide a wrap for information content that lets uderstand data both ways. They usually provide a long list of rules to compile a ASCII text file that may be understood by the parties involved, but before the actual transaction takes place a non documented process have to be done to define a communication channel (X400, AS2, HTTPS are the most used) between the two. This may require both parties a team of people to integrate the existing communication infrastructure with the new partner.
+This is why a standard process needs to be defined: a software able to handle this standard will replace the communication integration in a predictable way, leaving the team of people time to do more valuable activities and handle only exception occurring in the process. 
