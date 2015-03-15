@@ -13,7 +13,7 @@ _A constant name is an alphanumeric uppercase word, preceded and followed by the
 
 Example of a constant:
 
-_CONSTANTNAME_
+\_CONSTANTNAME_
 
 ##### Naming obects
 An object is a mutable container of information, valid only at a single layer of the stack. Isolation of objects will prevent naming overlapping of objects in different layer to interfere wih the ease of implementation
